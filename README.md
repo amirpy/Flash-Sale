@@ -1,4 +1,4 @@
-# Character Sale Page UI 
+# Flash Sale Landing Page
 ![download](https://user-images.githubusercontent.com/71381980/127760806-3c81ea2f-7dd7-4723-9a89-367c662f7942.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
