@@ -5,7 +5,7 @@ const MainContent = () => {
     const listItems = product_card.map((item) =>
         <div className="card" key={item.id}>
             <div className="card_img">
-                <img src={item.thumb} />
+                <img src={item.thumb} alt="main" />
             </div>
             <div className="card_header">
                 <h2>{item.product_name}</h2>
