@@ -1,4 +1,4 @@
-const product_card = [
+const productCard = [
     {
         id: 1,
         product_name: "Assassin Creed",
@@ -19,7 +19,7 @@ const product_card = [
         id: 3,
         product_name: "Assassin Creed",
         description: "1 Main characters of Assassin's Creed",
-        price: 350,
+        price: 450,
         currency: "₹",
         thumb: "./images/3.png"
     },
@@ -72,4 +72,4 @@ const product_card = [
         thumb: "./images/3.png"
     }
 ]
-export default product_card;
+export default productCard;

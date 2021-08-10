@@ -1,8 +1,8 @@
 import React from 'react'
-import product_card from "../data/product_data";
+import productCard from "../data/product_data";
 
 const MainContent = () => {
-    const listItems = product_card.map((item) =>
+    const listItems = productCard.map((item) =>
         <div className="card" key={item.id}>
             <div className="card_img">
                 <img src={item.thumb} alt="main" />
